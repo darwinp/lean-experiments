@@ -9,7 +9,7 @@ Therefore I've created this Github repo as an easy place for the lean startup co
 
 How to contribute
 ==============
-Please add examples of experiments you have run to the [wiki}(/wiki).
+Please add examples of experiments you have run to the [wiki](/wiki).
 
 It would be great if you can share the following details.
 
